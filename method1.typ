@@ -1,3 +1,6 @@
+// dictionary に構造式を insert して、必要なときに適宜呼び出して表現する方法
+
+
 #import "@preview/alchemist:0.1.6": *
 #import "@preview/whalogen:0.3.0": ce
 #set page(
